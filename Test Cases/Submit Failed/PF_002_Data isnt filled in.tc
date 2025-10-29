@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PF_002_Data isnt filled in</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c8794cbe-8a49-4d1c-95de-e1ba028960ca</testCaseGuid>
+</TestCaseEntity>
